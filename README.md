@@ -1,4 +1,4 @@
-# Text-Readalily
+# Text-Readabilily
 The program can be used for evaluating text readability on a scale "easy, middle, hard".
 It also computes the following readability metrics: SMOG, Flesh Kinkaid, Dale Chale, Coleman Liau, Automated Readability Index and a mean complexity metric based on them all.
 
